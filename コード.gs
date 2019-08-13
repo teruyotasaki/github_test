@@ -6,4 +6,5 @@ function myFunction() {
 }
 function test(){
   var huga = 'hugahuga';
+  var hoge = '';
 }
